@@ -12,8 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=2&%20&fontSize=90)
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username-DangtangƐee)](https://github.com/DangtangEee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangtang Eee)](https://github.com/Dangtang Eee/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=DangtangEee)](https://github.com/DangtangEee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangtangEee)](https://github.com/DangtangEee/github-readme-stats)
+
 ![](https://img.shields.io/badge/-C-123456?style-flat-square&logo-C&logoColor-black)
 ![](https://img.shields.io/badge/-XB-007396?styl flat&logo-Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style-for-the-badge&logo=Spring&logoColor=white)
